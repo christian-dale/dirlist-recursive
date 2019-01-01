@@ -1,0 +1,15 @@
+{
+    "name": "vaporwave98/dirlist_rec",
+    "description": "Return all files and sub directories as a list.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jim Christian",
+            "email": "jimchristian@hotmail.no"
+        }
+    ]
+}
